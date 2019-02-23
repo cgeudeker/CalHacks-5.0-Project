@@ -7,3 +7,5 @@ In order to explore and utilize the Uber Movements data, we decided to create a 
 The code itself works by allowing the user to input a start and end location, which would then be turned into an SQL query sent to the API that OmniSci had also provided, which would return a graph of the travel times for each hour of the day.
 
 Given we don't currently have access to the API any request sent in at the moment will return the same graph.
+
+Created by cgeudeker and danielmolina24
